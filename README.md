@@ -18,13 +18,18 @@ Lo cual no ofrece muchas ventajas como:
 
 Un gestor de paquetes es el que se encarga de distribuir, instalar, actualizar y controlar las dependiencias de los paquetes a través de un`descriptor.`
 
-
-
 ## Descriptor
 
 Es el archivo en el cual nosotros declaramos, las caracteristicas de nuestro poquete, como:
 
-
+* El nombre
+* La version
+* Las dependencias, tando en ambiente de desarrollo como en ambiente  normal
+* Archivos a incluir
+* Información acerca del paquete, como:
+  * Nombre del autor
+  * Nombre de los contribuyentes
+  * Dirección URL del paquete, etc
 
 ## 
 
