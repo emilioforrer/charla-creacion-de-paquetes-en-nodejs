@@ -6,12 +6,14 @@
 
 ## Introducción
 
-En la siguiente charla vamos a a dar a conocer un poco más acerca de Node js y su sistema de paquetes y dependencias
+En la siguiente charla vamos a  dar a conocer un poco más acerca de Node js y su sistema de paquetes y dependencias
 
 Nuestras metas a cumplir son:
 
 * Crear, publicar y mantener paquetes para Node js.
 * Buenas prácticas y recomendaciones a la hora de contruir tú propio paquete.
+* Flujo de git para el buen mantenimiento del paquete \(`branches`, `tags`,  `etc`\).
+* Como versionar tu paquete y crear `releases`.
 * Como distribuir tu paquete ya sea público o privado
   * local
   * github
@@ -29,6 +31,13 @@ Lo cual no ofrece muchas ventajas como:
 * Instalación de subdependencias.
 * Distribución mas fácil y efectiva, siguiendo el versionamiento de cada componentes, etc.
 
+Cada lenguaje tiene su propio sistema para distribuir y modularizar componentes reutilizables como por ejemplo:
+
+* Ruby: **Gems** 
+* Python: **Eggs**
+* PHP: **packages**
+* Node js: **packages**
+
 ## ¿Qué es un gestor de paquetes?
 
 Un gestor de paquetes es el que se encarga de distribuir, instalar, actualizar y controlar las dependiencias de los paquetes a través de un `package descriptor` o `manifest`
@@ -43,7 +52,7 @@ En la mayoria de lenguajes de programación modernos, existen gestores de paquet
 
 Nota: si todavia ocupan **npm**, por favor comienzen a migrar a **yarn**. Yarn ofrece muchas más ventajas y ademas provee un archivo de bloqueo de versiones de las dependecias \(tipo: Gemfile.lock, composer.lock\) y ya no es necesario ocupar el comando **shrinkwrap** de npm el cual tenia ciertas dificultades.
 
-## Manifest / Package Descriptor 
+## Manifest / Package Descriptor
 
 Es el archivo en el cual nosotros declaramos, las características de nuestro paquete, como:
 
