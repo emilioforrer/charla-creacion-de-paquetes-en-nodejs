@@ -4,6 +4,10 @@
 
 ---
 
+## Introducción
+
+## 
+
 ## ¿Qué es un paquete y para nos sirve?
 
 Un paquete es una forma encapsular y extraer de nuestro proyecto principal: librerias, componentes, funcionalidades, etc. Para que mediante un gestor de paquetes, las podamos instalar y reutilizar, en diferentes proyectos, siguiendo asi el principio DRY \(Do not repeat yourself\).
@@ -33,8 +37,8 @@ Nota: si todavia ocupan **npm**, por favor comienzen a migrar a **yarn**. Yarn o
 Es el archivo en el cual nosotros declaramos, las características de nuestro paquete, como:
 
 * El nombre
-* La version
-* Las dependencias, tando en ambiente de desarrollo como en ambiente  normal
+* La versión
+* Las dependencias, tanto en ambiente de desarrollo como en ambiente  normal
 * Archivos a incluir
 * Información acerca del paquete, como:
   * Nombre del autor
