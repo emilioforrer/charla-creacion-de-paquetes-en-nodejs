@@ -49,7 +49,7 @@ Es el archivo en el cual nosotros declaramos, las características de nuestro pa
 Ejemplos de package descriptors:
 
 * Ruby: **Gemfile**
-* Node js: **package.json**
+* Node js: [**package.json**](https://docs.npmjs.com/files/package.json)
 * Javascript: **bower.json**
 * Java:** pom.xml**
 * PHP: **composer.json**
