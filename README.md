@@ -23,6 +23,7 @@ En la mayoria de lenguajes de programación modernos, existen gestores de paquet
 * PHP: **Composer**
 * Ruby: **Bundler**
 * Nodejs: **npm** **y yarn **
+* Javascript: **bower**
 
 Nota: si todavia ocupan **npm**, por favor comienzen a migrar a **yarn**. Yarn ofrece muchas más ventajas y ademas provee un archivo de bloqueo de versiones de las dependecias \(tipo: Gemfile.lock, composer.lock\) y ya no es necesario ocupar el comando **shrinkwrap** de npm el cual tenia ciertas dificultades.
 
@@ -39,8 +40,6 @@ Es el archivo en el cual nosotros declaramos, las caracteristicas de nuestro poq
   * Nombre de los contribuyentes
   * Dirección URL del paquete, etc
 * Y muchas cosas más.
-
-
 
 
 
