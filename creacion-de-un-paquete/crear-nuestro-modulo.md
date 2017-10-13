@@ -31,5 +31,7 @@ var HjsDemo = {
 export default HjsDemo;
 ```
 
+Y ahora compilamos nuestro paquete corriendo el comando `gulp`.
+
 
 
