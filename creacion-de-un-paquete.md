@@ -12,9 +12,11 @@ Esto nos creara una carpeta con el archivo `package.json`
 
 El cual posee muchas propiedas, como:
 
-* **name**: Este es el nombre de nuestro paquete
+* **name**: Este es el nombre de nuestro paquete \(cuando es una organizacion lleva el prefijo de la organizacion precedido por una @ y separado por `/`\)
 
 * **version**: Aqui se describe la versión del paquete, que debe sergui el [semver](http://semver.org/)
+
+* **main**:  Indica el archivo de entra hacia nuestra app
 
 * **dependencies**: Listado de pendencias del paquete
 
