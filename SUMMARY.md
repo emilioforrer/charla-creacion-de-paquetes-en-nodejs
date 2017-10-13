@@ -3,7 +3,10 @@
 * [Introducción](README.md)
 * [Paquetes](paquetes.md)
 * [Gestor de paquetes](gestor-de-paquetes.md)
+* [Package descriptor](package-descriptor.md)
 * [Requerimientos](requerimientos.md)
+* [Contructres de módulos](module-bundlers.md)
 * [Creación de un paquete](creacion-de-un-paquete.md)
+  * [Iniciar repositorio git](creacion-de-un-paquete/iniciar-repositorio-git.md)
 * [Publicación y distribución  de un paquete](publicacion-y-distribucion-de-un-paquete.md)
 

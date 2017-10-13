@@ -1,4 +1,4 @@
-## ¿Qué es un paquete y para nos sirve?
+## ¿Qué es un paquete y para que nos sirve?
 
 Un paquete es una forma encapsular y extraer de nuestro proyecto principal: librerias, componentes, funcionalidades, etc. Para que mediante un gestor de paquetes, las podamos instalar y reutilizar, en diferentes proyectos, siguiendo asi el principio DRY \(Do not repeat yourself\).
 
