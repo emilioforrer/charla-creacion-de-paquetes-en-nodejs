@@ -30,8 +30,8 @@ bower_components/
 Como buena práctica es bueno crear los siguientes archivos:
 
 ```
-CHANGELOG.md
-README.md
+changelog.md
+readme.md
 ```
 
 
