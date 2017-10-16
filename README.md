@@ -14,12 +14,6 @@ Nuestras metas a cumplir son:
 * Buenas prácticas y recomendaciones a la hora de contruir tú propio paquete.
 * Flujo de git para el buen mantenimiento del paquete \(`branches`, `tags`,  `etc`\).
 * Como versionar tu paquete y crear `releases`.
-* Como distribuir tu paquete ya sea público o privado
-  * local
-  * github
-  * gitlab
-  * npm
-  * Tu propio servidor privado
 
 ## 
 
