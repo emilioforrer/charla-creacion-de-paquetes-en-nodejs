@@ -41,7 +41,7 @@ Luego de esto, hoy si ya podemos finalmente publicar nuestro paquete y que este 
 yarn publish
 ```
 
-Y si tu usuario es organizacion y quieres que tu paquete este público, hay que correr el siguiente comando
+Y si tu usuario es organización y quieres que tu paquete este público, hay que correr el siguiente comando
 
 ```
 yarn publish --access public
