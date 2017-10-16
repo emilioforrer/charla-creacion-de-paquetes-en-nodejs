@@ -34,5 +34,25 @@ changelog.md
 readme.md
 ```
 
+Ahora hacemos commit de nuestros cambios
+
+```
+git add -A; git commit -am "Initial commit"
+```
+
+Y comenzamos  a crear nuestro primer release con `git-flow` el  cual será la versión 0.1.0.
+
+```
+git flow release start v0.1.0
+```
+
+Y el primer paso antes de crear nuestro módulo será, cambiar la versión en el `package.json` para que haga match con nuestro release.
+
+
+
+```
+  "version": "0.1.0",
+```
+
 
 
