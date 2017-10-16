@@ -35,7 +35,7 @@ git checkout master
 git push --tags origin master
 ```
 
-Luego de esto hoy si ya podemos finalmente publicar nuestro paquete y que este disponible en los registros de npm, con el siguiente comando.
+Luego de esto, hoy si ya podemos finalmente publicar nuestro paquete y que este disponible en los registros de npm, con el siguiente comando.
 
 ```
 yarn publish
