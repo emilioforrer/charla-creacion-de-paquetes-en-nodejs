@@ -14,7 +14,7 @@ El cual posee muchas propiedas, como:
 
 * **name**: Este es el nombre de nuestro paquete \(cuando es una organizacion lleva el prefijo de la organizacion precedido por una @ y separado por `/`\)
 
-* **version**: Aqui se describe la versión del paquete, que debe sergui el [semver](http://semver.org/)
+* **version**: Aqui se describe la versión del paquete, que debe seguir el [semver](http://semver.org/)
 
 * **main**:  Indica el archivo de entra hacia nuestra app
 
